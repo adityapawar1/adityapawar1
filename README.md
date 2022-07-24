@@ -5,3 +5,4 @@
 
 
 [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/adityapawar1/langs?time_range=one_year&loc_metric=changed&theme=dark)](https://githubtrends.io)
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/adityapawar1/repos?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)](https://githubtrends.io)
